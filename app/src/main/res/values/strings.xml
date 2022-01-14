@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PreferencesApp</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome_n_abc_gmail_com">Welcome\n abc@gmail.com</string>
+    <string name="logout">logout</string>
+    <string name="exit">Exit</string>
+    <string name="are_you_sure">Are you sure ?</string>
+</resources>
